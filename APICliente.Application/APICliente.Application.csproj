@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APICliente.Application.DTO\APICliente.Application.DTO.csproj" />
+    <ProjectReference Include="..\APICliente.Domain.Core\APICliente.Domain.Core.csproj" />
+    <ProjectReference Include="..\APICliente.Infrastructure.CrossCutting.Adapter\APICliente.Infrastructure.CrossCutting.Adapter.csproj" />
+  </ItemGroup>
+
+</Project>

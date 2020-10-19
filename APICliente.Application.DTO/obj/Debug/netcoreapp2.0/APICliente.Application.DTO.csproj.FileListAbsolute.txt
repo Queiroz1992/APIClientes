@@ -1,0 +1,14 @@
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Application.DTO.deps.json
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Application.DTO.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Application.DTO.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.csproj.CopyComplete
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application.DTO\obj\Debug\netcoreapp2.0\APICliente.Application.DTO.pdb

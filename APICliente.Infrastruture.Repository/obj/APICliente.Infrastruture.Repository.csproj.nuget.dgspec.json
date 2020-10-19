@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Infrastruture.Repository\\APICliente.Infrastruture.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
+        "projectName": "APICliente.Domain.Core",
+        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Filipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {
+                "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "projectName": "APICliente.Domain",
+        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Filipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Infrastruture.Repository\\APICliente.Infrastruture.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Infrastruture.Repository\\APICliente.Infrastruture.Repository.csproj",
+        "projectName": "APICliente.Infrastruture.Repository",
+        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Infrastruture.Repository\\APICliente.Infrastruture.Repository.csproj",
+        "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Infrastruture.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Filipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

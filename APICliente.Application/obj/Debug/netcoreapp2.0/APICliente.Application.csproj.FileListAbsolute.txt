@@ -1,0 +1,14 @@
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Application.deps.json
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Application.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Application.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.csproj.CopyComplete
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Application\obj\Debug\netcoreapp2.0\APICliente.Application.pdb

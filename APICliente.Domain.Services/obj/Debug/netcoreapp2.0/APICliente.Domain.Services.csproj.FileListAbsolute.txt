@@ -1,0 +1,14 @@
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.Services.deps.json
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.Services.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.Services.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.csproj.CopyComplete
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domain.Services\obj\Debug\netcoreapp2.0\APICliente.Domain.Services.pdb

@@ -1,0 +1,10 @@
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.deps.json
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csprojAssemblyReference.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csproj.CopyComplete
