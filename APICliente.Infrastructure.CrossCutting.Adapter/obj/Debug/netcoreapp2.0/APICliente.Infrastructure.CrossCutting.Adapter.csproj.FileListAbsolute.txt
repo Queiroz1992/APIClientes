@@ -14,3 +14,9 @@ C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infras
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.csproj.CopyComplete
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.dll
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.pdb
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp2.0\APICliente.Infrastructure.CrossCutting.Adapter.pdb

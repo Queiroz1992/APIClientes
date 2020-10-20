@@ -20,7 +20,7 @@ namespace APICliente.Infrastructure.CrossCutting.Adapter.Map
         {
             Endereco endereco = new Endereco
             {
-                Id = enderecoDTO.Id
+                EnderecoId = enderecoDTO.EnderecoId
                 , 
                 Logradouro = enderecoDTO.Logradouro
                 ,
@@ -40,7 +40,7 @@ namespace APICliente.Infrastructure.CrossCutting.Adapter.Map
             {
                 EnderecoDTO enderecoDTO = new EnderecoDTO
                 {
-                    Id = endereco.Id
+                    EnderecoId = endereco.EnderecoId
                     , 
                     Logradouro = endereco.Logradouro
                     , 
@@ -61,7 +61,7 @@ namespace APICliente.Infrastructure.CrossCutting.Adapter.Map
         {
             EnderecoDTO enderecoDTO = new EnderecoDTO
             {
-                Id = endereco.Id
+                EnderecoId = endereco.EnderecoId
                 , 
                 Logradouro = endereco.Logradouro
                 ,

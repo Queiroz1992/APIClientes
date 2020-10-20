@@ -7,3 +7,12 @@ C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Domini
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.dll
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\bin\Debug\netcoreapp2.0\APICliente.Domain.deps.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.csprojAssemblyReference.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.AssemblyInfoInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.AssemblyInfo.cs
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.csproj.CoreCompileInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Dominio\obj\Debug\netcoreapp2.0\APICliente.Domain.pdb

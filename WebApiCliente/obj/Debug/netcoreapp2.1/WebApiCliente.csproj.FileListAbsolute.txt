@@ -1,0 +1,14 @@
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\WebApiCliente.deps.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\WebApiCliente.runtimeconfig.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\WebApiCliente.runtimeconfig.dev.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\bin\Debug\netcoreapp2.1\WebApiCliente.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.csprojAssemblyReference.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.AssemblyInfoInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.AssemblyInfo.cs
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.RazorAssemblyInfo.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.RazorAssemblyInfo.cs
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.RazorTargetAssemblyInfo.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\WebApiCliente\obj\Debug\netcoreapp2.1\WebApiCliente.genruntimeconfig.cache

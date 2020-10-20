@@ -6,7 +6,7 @@ namespace APICliente.Application.DTO.DTO
 {
     public class EnderecoDTO
     {
-        public int? Id { get; set; }
+        public int EnderecoId { get; set; }
         public string Logradouro { get; set; }
         public string Bairro { get; set; }
         public string Cidade { get; set; }        

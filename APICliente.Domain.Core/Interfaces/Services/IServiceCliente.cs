@@ -5,7 +5,16 @@ using System.Text;
 
 namespace APICliente.Domain.Core.Interfaces.Services
 {
-    public interface IServiceCliente : IServiceBase<Cliente>
+    public interface IServiceCliente
     {
+        void Adicionar(Cliente cliente);
+
+        Cliente ObterPorId(int id);
+
+        IEnumerable<Cliente> ObterTodos();
+
+        void Atualizar(Cliente cliente);
+
+        void Excluir(int id);
     }
 }

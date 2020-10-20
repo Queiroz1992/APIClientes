@@ -16,7 +16,5 @@ namespace APICliente.Application.Interfaces
         void Atualizar(ClienteDTO obj);
 
         void Excluir(ClienteDTO obj);
-
-        void Dispose();
     }
 }

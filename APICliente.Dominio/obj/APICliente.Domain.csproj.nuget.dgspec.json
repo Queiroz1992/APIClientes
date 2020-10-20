@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {}
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "projectUniqueName": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj",
         "projectName": "APICliente.Domain",
-        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj",
         "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\obj\\",
+        "outputPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -41,12 +41,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

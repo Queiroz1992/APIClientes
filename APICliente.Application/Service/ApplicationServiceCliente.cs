@@ -48,10 +48,5 @@ namespace APICliente.Application.Service
             var objCliente = _mapperCliente.MapeadorPorEntidade(obj);
             _serviceCliente.Atualizar(objCliente);
         }
-
-        public void Dispose()
-        {
-            _serviceCliente.Dispose();
-        }
     }
 }

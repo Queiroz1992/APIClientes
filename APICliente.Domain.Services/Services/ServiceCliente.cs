@@ -7,14 +7,38 @@ using System.Text;
 
 namespace APICliente.Domain.Services.Services
 {
-    public class ServiceCliente : ServiceBase<Cliente>, IServiceCliente
+    public class ServiceCliente : IServiceCliente
     {
-        public readonly IRepositoryCliente _repositoryCliente;
+        private readonly IRepositoryCliente _repository;
 
-        public ServiceCliente(IRepositoryCliente RepositoryCliente)
-            : base(RepositoryCliente)
+        public ServiceCliente(IRepositoryCliente Repository)
         {
-            _repositoryCliente = RepositoryCliente;
+            _repository = Repository;
+        }
+
+        public void Adicionar(Cliente cliente)
+        {
+            _repository.Adicionar(cliente);
+        }
+
+        public void Atualizar(Cliente cliente)
+        {
+            _repository.Atualizar(cliente);
+        }
+
+        public void Excluir(int id)
+        {
+            _repository.Excluir(id);
+        }
+
+        public Cliente ObterPorId(int id)
+        {
+            return _repository.ObterPorId(id);
+        }
+
+        public IEnumerable<Cliente> ObterTodos()
+        {
+            return _repository.ObterTodos();
         }
     }
 }

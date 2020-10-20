@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj": {}
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj": {
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj",
         "projectName": "APICliente.Application.DTO",
-        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj",
+        "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Application.DTO\\APICliente.Application.DTO.csproj",
         "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Application.DTO\\obj\\",
+        "outputPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,17 +23,17 @@
           "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj"
+              "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
+                "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj"
               }
             }
           }
@@ -45,12 +45,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
         "projectName": "APICliente.Domain.Core",
-        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
+        "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\APICliente.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Domain.Core\\obj\\",
+        "outputPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -87,17 +87,17 @@
           "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {
-                "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj"
+              "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj": {
+                "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj"
               }
             }
           }
@@ -109,12 +109,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj": {
+    "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "projectUniqueName": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj",
         "projectName": "APICliente.Domain",
-        "projectPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\APICliente.Domain.csproj",
+        "projectPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\APICliente.Domain.csproj",
         "packagesPath": "C:\\Users\\Filipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filipe\\Desktop\\Projeto_DDD_APIClientes\\APIClientesDDD\\APICliente.Dominio\\obj\\",
+        "outputPath": "C:\\Cópia_Projeto_DDD_APIClientes\\APIClientes\\APICliente.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -151,14 +151,14 @@
           "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -169,12 +169,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

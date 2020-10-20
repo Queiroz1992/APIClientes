@@ -4,8 +4,9 @@ using System.Text;
 
 namespace APICliente.Domain.Models
 {
-    public class Cliente : Base
+    public class Cliente 
     {
+        public int ClienteId { get; set; }
         public string Nome { get; set; }
         public string CPF { get; set; }
         public DateTime DataNascimento { get; set; }

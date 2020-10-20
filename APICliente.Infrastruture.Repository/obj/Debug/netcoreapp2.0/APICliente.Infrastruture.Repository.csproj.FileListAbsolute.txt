@@ -8,3 +8,14 @@ C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infras
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfoInputs.cache
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfo.cs
 C:\Users\Filipe\Desktop\Projeto_DDD_APIClientes\APIClientesDDD\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csproj.CopyComplete
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csprojAssemblyReference.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfoInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.AssemblyInfo.cs
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csproj.CoreCompileInputs.cache
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.deps.json
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.dll
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.Core.pdb
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\bin\Debug\netcoreapp2.0\APICliente.Domain.pdb
+C:\Cópia_Projeto_DDD_APIClientes\APIClientes\APICliente.Infrastruture.Repository\obj\Debug\netcoreapp2.0\APICliente.Infrastruture.Repository.csproj.CopyComplete

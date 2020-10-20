@@ -8,7 +8,7 @@ using System.Text;
 
 namespace APICliente.Application.Service
 {
-    public class ApplicationServiceEndereco : IDisposable, IApplicationServiceEndereco
+    public class ApplicationServiceEndereco : IApplicationServiceEndereco
     {
         private readonly IServiceEndereco _serviceEndereco;
         private readonly IMapperEndereco _mapperEndereco;
@@ -29,11 +29,6 @@ namespace APICliente.Application.Service
         {
             var objEndereco = _mapperEndereco.MapeadorPorEntidade(obj);
             _serviceEndereco.Atualizar(objEndereco);
-        }
-
-        public void Dispose()
-        {
-            _serviceEndereco.Dispose();
         }
 
         public void Excluir(EnderecoDTO obj)

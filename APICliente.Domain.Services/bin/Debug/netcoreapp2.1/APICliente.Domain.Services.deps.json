@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "APICliente.Domain.Services/1.0.0": {
+        "dependencies": {
+          "APICliente.Domain": "1.0.0",
+          "APICliente.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "APICliente.Domain.Services.dll": {}
+        }
+      },
+      "APICliente.Domain/1.0.0": {
+        "runtime": {
+          "APICliente.Domain.dll": {}
+        }
+      },
+      "APICliente.Domain.Core/1.0.0": {
+        "dependencies": {
+          "APICliente.Domain": "1.0.0"
+        },
+        "runtime": {
+          "APICliente.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APICliente.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APICliente.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APICliente.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
